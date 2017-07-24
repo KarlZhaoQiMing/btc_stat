@@ -100,8 +100,8 @@ def web_login():
     url = "https://www.btctrade.com/user/login/"
     s = requests.Session()
     data = {
-                "email":"18611175072",
-                "pwd":"20081003569",
+                "email":"****",
+                "pwd":"****",
                 "captcha":None,
                 "hotp":None
             }
